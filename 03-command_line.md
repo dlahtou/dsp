@@ -21,15 +21,15 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > pwd -- Show current working directory path
-mkdir [directory] -- Creates a directory
-rmdir [directory] -- Removes a directory (directory must be empty)
-touch [filename] -- Creates a file if it does not exist
-rm [filename] -- Deletes a file
-ls [directory] -- Lists files in given directory (default: current directory)
-cp [filename] [filename] -- Copies a file given by the first argument into the file given by the second argument
-ls -a -- Shows hidden files
-mv [filename] [filename] -- Moves a file
-man [command name] -- Shows information about a command
+> > mkdir [directory] -- Creates a directory
+> > rmdir [directory] -- Removes a directory (directory must be empty)
+> > touch [filename] -- Creates a file if it does not exist
+> > rm [filename] -- Deletes a file
+> > ls [directory] -- Lists files in given directory (default: current directory)
+> > cp [filename] [filename] -- Copies a file given by the first argument into the file given by the second argument
+> > ls -a -- Shows hidden files
+> > mv [filename] [filename] -- Moves a file
+> > man [command name] -- Shows information about a command
 
 ---
 
@@ -45,12 +45,12 @@ What do the following commands do:
 `ls -Glp`  
 
 > > `ls` -- Lists files in a directory
-`ls -a` -- Includes hidden files
-`ls -l` -- Shows details about all files listed
-`ls -lh` -- Shows details about all files with human readable sizes
-`ls -lah` -- Includes hidden files, Shows details about all files with human readable sizes
-`ls -t` -- Lists files sorted by modification time, newest first
-`ls -Glp` -- Shows details about all files, ignores group names, and appends '/' to directories
+> > `ls -a` -- Includes hidden files
+> > `ls -l` -- Shows details about all files listed
+> > `ls -lh` -- Shows details about all files with human readable sizes
+> > `ls -lah` -- Includes hidden files, Shows details about all files with human readable sizes
+> > `ls -t` -- Lists files sorted by modification time, newest first
+> > `ls -Glp` -- Shows details about all files, ignores group names, and appends '/' to directories
 
 ---
 
@@ -59,10 +59,10 @@ What do the following commands do:
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
 > > `ls -d` -- Displays only directories
-`ls -m` -- Displays names as a comma-separates list
-`ls -n' -- Displays long format list with GID and UID numbers
-'ls -x' -- Lists files row-by-row rather than by column
-'ls -1' -- Displays each entry on a line
+> > `ls -m` -- Displays names as a comma-separates list
+> > `ls -n` -- Displays long format list with GID and UID numbers
+> > `ls -x` -- Lists files row-by-row rather than by column
+> > `ls -1` -- Displays each entry on a line
 
 ---
 
