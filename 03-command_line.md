@@ -26,7 +26,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > touch [filename] -- Creates a file if it does not exist <br />
 > > rm [filename] -- Deletes a file <br />
 > > ls [directory] -- Lists files in given directory (default: current directory) <br />
-> > cp [filename] [filename] -- Copies a file given by the first argument into the file given by the second argument
+> > cp [filename] [filename] -- Copies a file given by the first argument into the file given by the second argument <br />
 > > ls -a -- Shows hidden files <br />
 > > mv [filename] [filename] -- Moves a file <br />
 > > man [command name] -- Shows information about a command <br />
