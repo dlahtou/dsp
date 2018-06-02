@@ -70,7 +70,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > xargs [command]  -- Reads STDIN as a list of arguments, separated by blanks
+> > xargs [command]  -- Reads STDIN as a list of arguments, separated by blanks <br />
 ls *.md | xargs -i cp {} markdown/{} -- collects all files with '.md' extension and copies them to 'markdown' directory
 
  
